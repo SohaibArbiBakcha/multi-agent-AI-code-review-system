@@ -1,0 +1,15 @@
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-ollama>=0.2.0
+ollama>=0.4.0
+streamlit>=1.38.0
+pylint>=3.2.0
+bandit>=1.7.9
+radon>=6.0.1
+fpdf2>=2.7.9
+matplotlib>=3.9.0
+pydantic>=2.9.0
+loguru>=0.7.2
+python-dotenv>=1.0.1
+pytest>=8.3.0
+pypdf>=5.0.0   # test-only: extracts text in tests/test_pdf_generator.py
